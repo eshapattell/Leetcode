@@ -14,5 +14,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/eshapattell/Leetcode/tree/master/0231-power-of-two) |
 | [0394-decode-string](https://github.com/eshapattell/Leetcode/tree/master/0394-decode-string) |
+## Math
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/eshapattell/Leetcode/tree/master/0231-power-of-two) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/eshapattell/Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
