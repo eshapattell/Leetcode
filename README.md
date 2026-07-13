@@ -24,4 +24,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/eshapattell/Leetcode/tree/master/0231-power-of-two) |
+## Array
+|  |
+| ------- |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/eshapattell/Leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+## Binary Search
+|  |
+| ------- |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/eshapattell/Leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+## Greedy
+|  |
+| ------- |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/eshapattell/Leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 <!---LeetCode Topics End-->
