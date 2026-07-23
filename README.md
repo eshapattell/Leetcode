@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/eshapattell/Leetcode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/eshapattell/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/eshapattell/Leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2073-time-needed-to-buy-tickets](https://github.com/eshapattell/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2594-minimum-time-to-repair-cars](https://github.com/eshapattell/Leetcode/tree/master/2594-minimum-time-to-repair-cars) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/eshapattell/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0950-reveal-cards-in-increasing-order](https://github.com/eshapattell/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
+| [2073-time-needed-to-buy-tickets](https://github.com/eshapattell/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/eshapattell/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/eshapattell/Leetcode/tree/master/0933-number-of-recent-calls) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/eshapattell/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
+| [2073-time-needed-to-buy-tickets](https://github.com/eshapattell/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Divide and Conquer
 |  |
 | ------- |
