@@ -1,40 +1,65 @@
 class Solution {
 public:
     bool backspaceCompare(string s, string t) {
-        int n= s.size();
-        int m= t.size();
-        stack<char> st1;
-        stack<char> st2;
-        string first ="";
-        string second ="";
+        //starting from the end
+        int i= s.size()-1;
+        int j =t.size()-1;
 
-        for(auto ch: s){
-            if(ch >= 'a' && ch<= 'z'){
-                st1.push(ch);
-            }else{
-                if(!st1.empty() && ch=='#'){
-                    st1.pop();
+        //keeping the track of '#' count
+        int skipS=0;
+        int skipT=0;
+
+        //till both the string are processed
+        while(i>=0 || j>=0){
+            //find the next valid charcter in s
+            while(i>=0){
+                //inc the skip count and dec the pointer
+                if(s[i]=='#'){
+                    skipS++;
+                    i--;
+                }
+                //if characters are there to skip, skip the curr
+                else if(skipS > 0){
+                    skipS--;
+                    i--;
+                }
+                //currr is valid
+                else{
+                    break;
                 }
             }
-        }
-        while(!st1.empty()){
-            first += st1.top();
-            st1.pop();
-        }
-
-        for(auto ch: t){
-            if(ch >= 'a' && ch<= 'z'){
-                st2.push(ch);
-            }else{
-                if(!st2.empty() && ch=='#'){
-                    st2.pop();
+            //find the next valid charcter in s
+            while(j>=0){
+                //inc the skip count and dec the pointer
+                if(t[j]=='#'){
+                    skipT++;
+                    j--;
+                }
+                //if characters are there to skip, skip the curr
+                else if(skipT > 0){
+                    skipT--;
+                    j--;
+                }
+                //curr is valid
+                else{
+                    break;
                 }
             }
+            //if both the pointers are valid, compare them
+            if(i >=0 && j >=0){
+                if(s[i] != t[j]){
+                    return false;
+                }
+            }
+            //if one has character left and the other dont they cant be valid
+            else if( i >=0 || j >= 0){
+                return false;
+            }
+            //move to the prev character of the strings
+            i--;
+            j--;
         }
-        while(!st2.empty()){
-            second += st2.top();
-            st2.pop();
-        }
-        return (first == second);
+        //all valid characters matched
+        return true;
     }
 };
