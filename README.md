@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/eshapattell/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/eshapattell/Leetcode/tree/master/0231-power-of-two) |
 | [0394-decode-string](https://github.com/eshapattell/Leetcode/tree/master/0394-decode-string) |
 ## Math
@@ -142,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/eshapattell/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/eshapattell/Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
