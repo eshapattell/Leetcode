@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/eshapattell/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/eshapattell/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1092-shortest-common-supersequence](https://github.com/eshapattell/Leetcode/tree/master/1092-shortest-common-supersequence) |
+| [2211-count-collisions-on-a-road](https://github.com/eshapattell/Leetcode/tree/master/2211-count-collisions-on-a-road) |
 ## Stack
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/eshapattell/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/eshapattell/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/eshapattell/Leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [2211-count-collisions-on-a-road](https://github.com/eshapattell/Leetcode/tree/master/2211-count-collisions-on-a-road) |
 ## Recursion
 |  |
 | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/eshapattell/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/eshapattell/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [2073-time-needed-to-buy-tickets](https://github.com/eshapattell/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
+| [2211-count-collisions-on-a-road](https://github.com/eshapattell/Leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/eshapattell/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
