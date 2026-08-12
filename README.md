@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/eshapattell/Leetcode/tree/master/0231-power-of-two) |
 | [0670-maximum-swap](https://github.com/eshapattell/Leetcode/tree/master/0670-maximum-swap) |
+| [0877-stone-game](https://github.com/eshapattell/Leetcode/tree/master/0877-stone-game) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/eshapattell/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/eshapattell/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/eshapattell/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/eshapattell/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/eshapattell/Leetcode/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/eshapattell/Leetcode/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/eshapattell/Leetcode/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/eshapattell/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/eshapattell/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0962-maximum-width-ramp](https://github.com/eshapattell/Leetcode/tree/master/0962-maximum-width-ramp) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/eshapattell/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/eshapattell/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0410-split-array-largest-sum](https://github.com/eshapattell/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0877-stone-game](https://github.com/eshapattell/Leetcode/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/eshapattell/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1092-shortest-common-supersequence](https://github.com/eshapattell/Leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/eshapattell/Leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -240,4 +243,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1472-design-browser-history](https://github.com/eshapattell/Leetcode/tree/master/1472-design-browser-history) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/eshapattell/Leetcode/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/eshapattell/Leetcode/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/eshapattell/Leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
