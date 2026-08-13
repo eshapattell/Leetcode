@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/eshapattell/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/eshapattell/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/eshapattell/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/eshapattell/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/eshapattell/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/eshapattell/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/eshapattell/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/eshapattell/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/eshapattell/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/eshapattell/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0761-special-binary-string](https://github.com/eshapattell/Leetcode/tree/master/0761-special-binary-string) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/eshapattell/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/eshapattell/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0347-top-k-frequent-elements](https://github.com/eshapattell/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/eshapattell/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/eshapattell/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0895-maximum-frequency-stack](https://github.com/eshapattell/Leetcode/tree/master/0895-maximum-frequency-stack) |
 ## Ordered Set
 |  |
