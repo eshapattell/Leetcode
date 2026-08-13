@@ -5,13 +5,12 @@ public:
         //add into map
         for(auto x: nums){
             mp[x]++;
-        }
-        //traverse map
-        for(auto [f,s]: mp){
-            if(s >1){
+            //if two directly return true 
+            if(mp[x] == 2){
                 return true;
             }
         }
+        
         return false;
     }
 };
