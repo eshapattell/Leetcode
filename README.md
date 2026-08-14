@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/eshapattell/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/eshapattell/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/eshapattell/Leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/eshapattell/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/eshapattell/Leetcode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/eshapattell/Leetcode/tree/master/0402-remove-k-digits) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/eshapattell/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/eshapattell/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/eshapattell/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/eshapattell/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/eshapattell/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/eshapattell/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/eshapattell/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/eshapattell/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/eshapattell/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/eshapattell/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/eshapattell/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/eshapattell/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
