@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/eshapattell/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/eshapattell/Leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2073-time-needed-to-buy-tickets](https://github.com/eshapattell/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
+| [2187-minimum-time-to-complete-trips](https://github.com/eshapattell/Leetcode/tree/master/2187-minimum-time-to-complete-trips) |
 | [2594-minimum-time-to-repair-cars](https://github.com/eshapattell/Leetcode/tree/master/2594-minimum-time-to-repair-cars) |
 | [3693-climbing-stairs-ii](https://github.com/eshapattell/Leetcode/tree/master/3693-climbing-stairs-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/eshapattell/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/eshapattell/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/eshapattell/Leetcode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/eshapattell/Leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2187-minimum-time-to-complete-trips](https://github.com/eshapattell/Leetcode/tree/master/2187-minimum-time-to-complete-trips) |
 | [2594-minimum-time-to-repair-cars](https://github.com/eshapattell/Leetcode/tree/master/2594-minimum-time-to-repair-cars) |
 ## Greedy
 |  |
