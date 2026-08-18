@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/eshapattell/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/eshapattell/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1092-shortest-common-supersequence](https://github.com/eshapattell/Leetcode/tree/master/1092-shortest-common-supersequence) |
+| [1544-make-the-string-great](https://github.com/eshapattell/Leetcode/tree/master/1544-make-the-string-great) |
 | [2211-count-collisions-on-a-road](https://github.com/eshapattell/Leetcode/tree/master/2211-count-collisions-on-a-road) |
 ## Stack
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1472-design-browser-history](https://github.com/eshapattell/Leetcode/tree/master/1472-design-browser-history) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/eshapattell/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/eshapattell/Leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1544-make-the-string-great](https://github.com/eshapattell/Leetcode/tree/master/1544-make-the-string-great) |
 | [2211-count-collisions-on-a-road](https://github.com/eshapattell/Leetcode/tree/master/2211-count-collisions-on-a-road) |
 ## Recursion
 |  |
