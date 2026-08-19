@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/eshapattell/Leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/eshapattell/Leetcode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/eshapattell/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/eshapattell/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/eshapattell/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/eshapattell/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/eshapattell/Leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/eshapattell/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/eshapattell/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/eshapattell/Leetcode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/eshapattell/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/eshapattell/Leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2187-minimum-time-to-complete-trips](https://github.com/eshapattell/Leetcode/tree/master/2187-minimum-time-to-complete-trips) |
 | [2594-minimum-time-to-repair-cars](https://github.com/eshapattell/Leetcode/tree/master/2594-minimum-time-to-repair-cars) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/eshapattell/Leetcode/tree/master/0670-maximum-swap) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/eshapattell/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/eshapattell/Leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/eshapattell/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/eshapattell/Leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Dynamic Programming
 |  |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/eshapattell/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/eshapattell/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -193,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0761-special-binary-string](https://github.com/eshapattell/Leetcode/tree/master/0761-special-binary-string) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/eshapattell/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1333-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/eshapattell/Leetcode/tree/master/1333-filter-restaurants-by-vegan-friendly-price-and-distance) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/eshapattell/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/eshapattell/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
@@ -331,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/eshapattell/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/eshapattell/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Rolling Hash
 |  |
 | ------- |
