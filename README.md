@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2594-minimum-time-to-repair-cars](https://github.com/eshapattell/Leetcode/tree/master/2594-minimum-time-to-repair-cars) |
 | [3693-climbing-stairs-ii](https://github.com/eshapattell/Leetcode/tree/master/3693-climbing-stairs-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/eshapattell/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [4024-nearest-available-drone](https://github.com/eshapattell/Leetcode/tree/master/4024-nearest-available-drone) |
 ## Binary Search
 |  |
 | ------- |
@@ -360,4 +361,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/eshapattell/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Enumeration
+|  |
+| ------- |
+| [4024-nearest-available-drone](https://github.com/eshapattell/Leetcode/tree/master/4024-nearest-available-drone) |
 <!---LeetCode Topics End-->
