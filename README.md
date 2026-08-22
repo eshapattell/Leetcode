@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/eshapattell/Leetcode/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/eshapattell/Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/eshapattell/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/eshapattell/Leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/eshapattell/Leetcode/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/eshapattell/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/eshapattell/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/eshapattell/Leetcode/tree/master/0205-isomorphic-strings) |
