@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/eshapattell/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/eshapattell/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/eshapattell/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/eshapattell/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/eshapattell/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/eshapattell/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1333-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/eshapattell/Leetcode/tree/master/1333-filter-restaurants-by-vegan-friendly-price-and-distance) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/eshapattell/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/eshapattell/Leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [3536-maximum-product-of-two-digits](https://github.com/eshapattell/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/eshapattell/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
