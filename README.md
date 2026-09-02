@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-reveal-cards-in-increasing-order](https://github.com/eshapattell/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0962-maximum-width-ramp](https://github.com/eshapattell/Leetcode/tree/master/0962-maximum-width-ramp) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/eshapattell/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0992-subarrays-with-k-different-integers](https://github.com/eshapattell/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1002-find-common-characters](https://github.com/eshapattell/Leetcode/tree/master/1002-find-common-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/eshapattell/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/eshapattell/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0895-maximum-frequency-stack](https://github.com/eshapattell/Leetcode/tree/master/0895-maximum-frequency-stack) |
 | [0930-binary-subarrays-with-sum](https://github.com/eshapattell/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/eshapattell/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0992-subarrays-with-k-different-integers](https://github.com/eshapattell/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1002-find-common-characters](https://github.com/eshapattell/Leetcode/tree/master/1002-find-common-characters) |
 | [1248-count-number-of-nice-subarrays](https://github.com/eshapattell/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/eshapattell/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/eshapattell/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/eshapattell/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0819-most-common-word](https://github.com/eshapattell/Leetcode/tree/master/0819-most-common-word) |
+| [0992-subarrays-with-k-different-integers](https://github.com/eshapattell/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/eshapattell/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/eshapattell/Leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/eshapattell/Leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
@@ -434,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/eshapattell/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/eshapattell/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0930-binary-subarrays-with-sum](https://github.com/eshapattell/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/eshapattell/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/eshapattell/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/eshapattell/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/eshapattell/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
