@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/eshapattell/Leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/eshapattell/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1544-make-the-string-great](https://github.com/eshapattell/Leetcode/tree/master/1544-make-the-string-great) |
+| [1839-longest-substring-of-all-vowels-in-order](https://github.com/eshapattell/Leetcode/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [2211-count-collisions-on-a-road](https://github.com/eshapattell/Leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/eshapattell/Leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/eshapattell/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
@@ -445,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/eshapattell/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/eshapattell/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/eshapattell/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1839-longest-substring-of-all-vowels-in-order](https://github.com/eshapattell/Leetcode/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [2401-longest-nice-subarray](https://github.com/eshapattell/Leetcode/tree/master/2401-longest-nice-subarray) |
 ## Rolling Hash
 |  |
