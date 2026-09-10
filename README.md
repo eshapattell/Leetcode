@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/eshapattell/Leetcode/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/eshapattell/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/eshapattell/Leetcode/tree/master/0231-power-of-two) |
+| [0447-number-of-boomerangs](https://github.com/eshapattell/Leetcode/tree/master/0447-number-of-boomerangs) |
 | [0523-continuous-subarray-sum](https://github.com/eshapattell/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0670-maximum-swap](https://github.com/eshapattell/Leetcode/tree/master/0670-maximum-swap) |
 | [0877-stone-game](https://github.com/eshapattell/Leetcode/tree/master/0877-stone-game) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/eshapattell/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/eshapattell/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/eshapattell/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0447-number-of-boomerangs](https://github.com/eshapattell/Leetcode/tree/master/0447-number-of-boomerangs) |
 | [0485-max-consecutive-ones](https://github.com/eshapattell/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/eshapattell/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/eshapattell/Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/eshapattell/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/eshapattell/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/eshapattell/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0447-number-of-boomerangs](https://github.com/eshapattell/Leetcode/tree/master/0447-number-of-boomerangs) |
 | [0451-sort-characters-by-frequency](https://github.com/eshapattell/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/eshapattell/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/eshapattell/Leetcode/tree/master/0523-continuous-subarray-sum) |
