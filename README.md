@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/eshapattell/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/eshapattell/Leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1695-maximum-erasure-value](https://github.com/eshapattell/Leetcode/tree/master/1695-maximum-erasure-value) |
+| [1712-ways-to-split-array-into-three-subarrays](https://github.com/eshapattell/Leetcode/tree/master/1712-ways-to-split-array-into-three-subarrays) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/eshapattell/Leetcode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/eshapattell/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/eshapattell/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/eshapattell/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/eshapattell/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/eshapattell/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1712-ways-to-split-array-into-three-subarrays](https://github.com/eshapattell/Leetcode/tree/master/1712-ways-to-split-array-into-three-subarrays) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/eshapattell/Leetcode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/eshapattell/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/eshapattell/Leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/eshapattell/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/eshapattell/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/eshapattell/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1712-ways-to-split-array-into-three-subarrays](https://github.com/eshapattell/Leetcode/tree/master/1712-ways-to-split-array-into-three-subarrays) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/eshapattell/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3903-smallest-stable-index-i](https://github.com/eshapattell/Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/eshapattell/Leetcode/tree/master/3904-smallest-stable-index-ii) |
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/eshapattell/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/eshapattell/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0962-maximum-width-ramp](https://github.com/eshapattell/Leetcode/tree/master/0962-maximum-width-ramp) |
+| [1712-ways-to-split-array-into-three-subarrays](https://github.com/eshapattell/Leetcode/tree/master/1712-ways-to-split-array-into-three-subarrays) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/eshapattell/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/eshapattell/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
