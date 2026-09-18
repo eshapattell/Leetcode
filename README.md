@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0447-number-of-boomerangs](https://github.com/eshapattell/Leetcode/tree/master/0447-number-of-boomerangs) |
 | [0523-continuous-subarray-sum](https://github.com/eshapattell/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0670-maximum-swap](https://github.com/eshapattell/Leetcode/tree/master/0670-maximum-swap) |
+| [0836-rectangle-overlap](https://github.com/eshapattell/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/eshapattell/Leetcode/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/eshapattell/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/eshapattell/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -542,4 +543,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2063-vowels-of-all-substrings](https://github.com/eshapattell/Leetcode/tree/master/2063-vowels-of-all-substrings) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/eshapattell/Leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
