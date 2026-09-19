@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/eshapattell/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/eshapattell/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/eshapattell/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0500-keyboard-row](https://github.com/eshapattell/Leetcode/tree/master/0500-keyboard-row) |
 | [0761-special-binary-string](https://github.com/eshapattell/Leetcode/tree/master/0761-special-binary-string) |
 | [0819-most-common-word](https://github.com/eshapattell/Leetcode/tree/master/0819-most-common-word) |
 | [0844-backspace-string-compare](https://github.com/eshapattell/Leetcode/tree/master/0844-backspace-string-compare) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/eshapattell/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0491-non-decreasing-subsequences](https://github.com/eshapattell/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/eshapattell/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/eshapattell/Leetcode/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/eshapattell/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/eshapattell/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/eshapattell/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/eshapattell/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0491-non-decreasing-subsequences](https://github.com/eshapattell/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/eshapattell/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/eshapattell/Leetcode/tree/master/0500-keyboard-row) |
 | [0523-continuous-subarray-sum](https://github.com/eshapattell/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/eshapattell/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0819-most-common-word](https://github.com/eshapattell/Leetcode/tree/master/0819-most-common-word) |
