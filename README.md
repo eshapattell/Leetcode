@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/eshapattell/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/eshapattell/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/eshapattell/Leetcode/tree/master/0500-keyboard-row) |
+| [0551-student-attendance-record-i](https://github.com/eshapattell/Leetcode/tree/master/0551-student-attendance-record-i) |
 | [0761-special-binary-string](https://github.com/eshapattell/Leetcode/tree/master/0761-special-binary-string) |
 | [0819-most-common-word](https://github.com/eshapattell/Leetcode/tree/master/0819-most-common-word) |
 | [0844-backspace-string-compare](https://github.com/eshapattell/Leetcode/tree/master/0844-backspace-string-compare) |
