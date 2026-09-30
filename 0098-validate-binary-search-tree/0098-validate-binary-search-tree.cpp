@@ -11,25 +11,19 @@
  */
 class Solution {
 public:
-  bool helper(TreeNode *root, TreeNode *min, TreeNode *max) {
-    // Empty subtree is always a valid BST
-    if (root == NULL)
-      return true;
-
-    // Current node must be strictly greater than the lower bound
-    if (min != NULL && root->val <= min->val)
-      return false;
-
-    // Current node must be strictly less than the upper bound
-    if (max != NULL && root->val >= max->val)
-      return false;
-
-    // Right subtree: current node becomes the new lower bound
-    // Left subtree: current node becomes the new upper bound
-    return helper(root->right, root, max) && helper(root->left, min, root);
-  }
-  bool isValidBST(TreeNode *root) {
-    // Start with no bounds on either side
-    return helper(root, NULL, NULL);
-  }
+    bool getAns(TreeNode* root,TreeNode* min, TreeNode* max){
+        if(root== NULL){
+            return true;
+        }
+        if(min !=NULL && min->val >= root->val){
+            return false;
+        }
+        if(max !=NULL && max->val <= root->val){
+            return false;
+        }
+        return getAns(root->left, min, root) && getAns(root->right,root,max);
+    }
+    bool isValidBST(TreeNode* root) {
+        return getAns(root, NULL, NULL);
+    }
 };
