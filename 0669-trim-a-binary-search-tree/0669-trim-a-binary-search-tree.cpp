@@ -39,14 +39,10 @@ public:
             return getAns(root->left, low, high, parent);
         }
 
-        return root;
+        return parent->left;
 
     }
     TreeNode* trimBST(TreeNode* root, int low, int high) {
         return getAns(root, low, high, NULL);
     }
 };
-
-
-
-        
