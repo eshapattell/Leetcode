@@ -11,22 +11,42 @@
  */
 class Solution {
 public:
-    TreeNode* trimBST(TreeNode* root, int low, int high) {
+//maintaining a parent
+    TreeNode* getAns(TreeNode* root, int low, int high, TreeNode* parent){
         //if null
         if(root ==NULL)return root;
-        
-        //if it is in range
+
+        //if in range
         if (root->val >= low && root->val <= high) { 
-           //we check both sides
-            root->left = trimBST(root->left, low, high);
-            root->right = trimBST(root->right, low, high);
+            root->left = getAns(root->left, low, high, root);
+            root->right = getAns(root->right, low, high, root);
             return root;
         }
-        //if root val less than low we check only right side as its left would also have lower val than low
+
+        //if root val less than low
         if (root->val < low) {
-            return trimBST(root->right, low, high);
+            if (parent != NULL){
+                parent->left = root->right;
+            }
+            return getAns(root->right, low, high, parent);
         }
-        //if root val more than high, we check only left side as its right would also have higher val than high  
-        return trimBST(root->left, low, high);
+
+        //if root val more than high
+        if (root->val > high) {
+            if (parent != NULL)
+                parent->right = root->left;
+
+            return getAns(root->left, low, high, parent);
+        }
+
+        return root;
+
+    }
+    TreeNode* trimBST(TreeNode* root, int low, int high) {
+        return getAns(root, low, high, NULL);
     }
 };
+
+
+
+        
