@@ -535,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/eshapattell/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/eshapattell/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/eshapattell/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
+| [0797-all-paths-from-source-to-target](https://github.com/eshapattell/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0938-range-sum-of-bst](https://github.com/eshapattell/Leetcode/tree/master/0938-range-sum-of-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/eshapattell/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Bracket Sequences
@@ -594,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/eshapattell/Leetcode/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/eshapattell/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0491-non-decreasing-subsequences](https://github.com/eshapattell/Leetcode/tree/master/0491-non-decreasing-subsequences) |
+| [0797-all-paths-from-source-to-target](https://github.com/eshapattell/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 ## Tree
 |  |
 | ------- |
@@ -656,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/eshapattell/Leetcode/tree/master/0200-number-of-islands) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/eshapattell/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/eshapattell/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0797-all-paths-from-source-to-target](https://github.com/eshapattell/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -694,5 +697,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/eshapattell/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [1791-find-center-of-star-graph](https://github.com/eshapattell/Leetcode/tree/master/1791-find-center-of-star-graph) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/eshapattell/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->
