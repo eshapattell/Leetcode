@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1472-design-browser-history](https://github.com/eshapattell/Leetcode/tree/master/1472-design-browser-history) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/eshapattell/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/eshapattell/Leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1631-path-with-minimum-effort](https://github.com/eshapattell/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1695-maximum-erasure-value](https://github.com/eshapattell/Leetcode/tree/master/1695-maximum-erasure-value) |
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/eshapattell/Leetcode/tree/master/1712-ways-to-split-array-into-three-subarrays) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/eshapattell/Leetcode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/eshapattell/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/eshapattell/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/eshapattell/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1631-path-with-minimum-effort](https://github.com/eshapattell/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/eshapattell/Leetcode/tree/master/1712-ways-to-split-array-into-three-subarrays) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/eshapattell/Leetcode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/eshapattell/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/eshapattell/Leetcode/tree/master/0867-transpose-matrix) |
 | [1020-number-of-enclaves](https://github.com/eshapattell/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1260-shift-2d-grid](https://github.com/eshapattell/Leetcode/tree/master/1260-shift-2d-grid) |
+| [1631-path-with-minimum-effort](https://github.com/eshapattell/Leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Design
 |  |
 | ------- |
@@ -494,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/eshapattell/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0658-find-k-closest-elements](https://github.com/eshapattell/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0743-network-delay-time](https://github.com/eshapattell/Leetcode/tree/master/0743-network-delay-time) |
+| [1631-path-with-minimum-effort](https://github.com/eshapattell/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/eshapattell/Leetcode/tree/master/2497-maximum-star-sum-of-a-graph) |
 ## Bucket Sort
 |  |
@@ -560,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/eshapattell/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1382-balance-a-binary-search-tree](https://github.com/eshapattell/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/eshapattell/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1631-path-with-minimum-effort](https://github.com/eshapattell/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/eshapattell/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/eshapattell/Leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
 ## Bracket Sequences
@@ -695,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/eshapattell/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [1020-number-of-enclaves](https://github.com/eshapattell/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/eshapattell/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1631-path-with-minimum-effort](https://github.com/eshapattell/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/eshapattell/Leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
 ## Binary Lifting
 |  |
@@ -733,6 +739,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/eshapattell/Leetcode/tree/master/0200-number-of-islands) |
 | [1020-number-of-enclaves](https://github.com/eshapattell/Leetcode/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/eshapattell/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/eshapattell/Leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
 ## Graph Theory
 |  |
@@ -759,4 +766,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/eshapattell/Leetcode/tree/master/0743-network-delay-time) |
+| [1631-path-with-minimum-effort](https://github.com/eshapattell/Leetcode/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
