@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0551-student-attendance-record-i](https://github.com/eshapattell/Leetcode/tree/master/0551-student-attendance-record-i) |
 | [0567-permutation-in-string](https://github.com/eshapattell/Leetcode/tree/master/0567-permutation-in-string) |
 | [0648-replace-words](https://github.com/eshapattell/Leetcode/tree/master/0648-replace-words) |
+| [0721-accounts-merge](https://github.com/eshapattell/Leetcode/tree/master/0721-accounts-merge) |
 | [0761-special-binary-string](https://github.com/eshapattell/Leetcode/tree/master/0761-special-binary-string) |
 | [0819-most-common-word](https://github.com/eshapattell/Leetcode/tree/master/0819-most-common-word) |
 | [0844-backspace-string-compare](https://github.com/eshapattell/Leetcode/tree/master/0844-backspace-string-compare) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/eshapattell/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/eshapattell/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/eshapattell/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0721-accounts-merge](https://github.com/eshapattell/Leetcode/tree/master/0721-accounts-merge) |
 | [0735-asteroid-collision](https://github.com/eshapattell/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/eshapattell/Leetcode/tree/master/0739-daily-temperatures) |
 | [0778-swim-in-rising-water](https://github.com/eshapattell/Leetcode/tree/master/0778-swim-in-rising-water) |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/eshapattell/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0658-find-k-closest-elements](https://github.com/eshapattell/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/eshapattell/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0721-accounts-merge](https://github.com/eshapattell/Leetcode/tree/master/0721-accounts-merge) |
 | [0761-special-binary-string](https://github.com/eshapattell/Leetcode/tree/master/0761-special-binary-string) |
 | [0853-car-fleet](https://github.com/eshapattell/Leetcode/tree/master/0853-car-fleet) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/eshapattell/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
@@ -471,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/eshapattell/Leetcode/tree/master/0567-permutation-in-string) |
 | [0648-replace-words](https://github.com/eshapattell/Leetcode/tree/master/0648-replace-words) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/eshapattell/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0721-accounts-merge](https://github.com/eshapattell/Leetcode/tree/master/0721-accounts-merge) |
 | [0819-most-common-word](https://github.com/eshapattell/Leetcode/tree/master/0819-most-common-word) |
 | [0895-maximum-frequency-stack](https://github.com/eshapattell/Leetcode/tree/master/0895-maximum-frequency-stack) |
 | [0930-binary-subarrays-with-sum](https://github.com/eshapattell/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
@@ -563,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/eshapattell/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/eshapattell/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/eshapattell/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
+| [0721-accounts-merge](https://github.com/eshapattell/Leetcode/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/eshapattell/Leetcode/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/eshapattell/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0797-all-paths-from-source-to-target](https://github.com/eshapattell/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
@@ -702,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/eshapattell/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/eshapattell/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/eshapattell/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0721-accounts-merge](https://github.com/eshapattell/Leetcode/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/eshapattell/Leetcode/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/eshapattell/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0797-all-paths-from-source-to-target](https://github.com/eshapattell/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
@@ -745,6 +751,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/eshapattell/Leetcode/tree/master/0200-number-of-islands) |
+| [0721-accounts-merge](https://github.com/eshapattell/Leetcode/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/eshapattell/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [1020-number-of-enclaves](https://github.com/eshapattell/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/eshapattell/Leetcode/tree/master/1631-path-with-minimum-effort) |
