@@ -1,41 +1,58 @@
 class Solution {
 public:
     int networkDelayTime(vector<vector<int>>& times, int n, int k) {
-        k-- ;//for making 0indexing
-        vector<vector<pair<int,int>>> a(n);
-        for(int i=0;i<times.size();i++){
-            int s = times[i][0];
-            int d = times[i][1];
-            int w = times[i][2];
-            a[s-1].push_back({d-1,w});
-        }
+        //adj list to store the adge
+        vector<vector<pair<int,int>>>adj(n);
 
-        priority_queue<pair<int,int>,vector<pair<int,int>>,greater<pair<int,int>>> pq;
-        vector<int> dist(n,INT_MAX);
-        dist[k] = 0;
-        pq.push({0,k});
+        for(auto &it : times) {
+            int u = it[0];
+            int v = it[1];
+            int w = it[2];
+
+            //treating index 1 as 0
+            adj[u-1].push_back({v-1, w});
+        }
+    
+        priority_queue<
+        pair<int,int>,
+        vector<pair<int,int>>,
+        greater<pair<int,int>>> pq;
+
+        vector<int> dist(n, 1e9);
+
+        //dist from src to itself
+        dist[k-1]= 0;
+        pq.push({0,k-1});
+
         while(!pq.empty()){
-            pair<int,int> p = pq.top();
+            auto [dis, node]= pq.top();
             pq.pop();
-            int d = p.first;
-            int node = p.second;
-            if(d>dist[node]) continue;
-            for(int j=0;j<a[node].size();j++){
-                int neg = a[node][j].first;
-                int wt = a[node][j].second;
-                if(d+wt < dist[neg]){
-                    dist[neg] = d+wt;
-                    pq.push({d+wt,neg});
+
+            //if curr is greater 
+            if(dis > dist[node])continue;
+
+            //neighbors of curr node
+            for(auto &it: adj[node]){
+                int adjNode= it.first;
+                int wt= it.second;
+
+                //if it gives the shortest dist
+                if(wt +dist[node] < dist[adjNode]){
+                    dist[adjNode]= dis+ wt;
+                    pq.push({dist[adjNode], adjNode});
                 }
             }
         }
-        int ans = INT_MIN;
-        for(int i=0;i<dist.size();i++){
-            if(dist[i] == INT_MAX)
+        //max shortest dist
+        int ans=0;
+        for(int i=0;i< n;i++){
+            //if a node cant be reached
+            if(dist[i]==1e9){
                 return -1;
-            else
-                ans = max(ans,dist[i]);
+            }
+            ans= max(ans, dist[i]);
         }
+
         return ans;
     }
 };
