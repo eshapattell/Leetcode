@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/eshapattell/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/eshapattell/Leetcode/tree/master/0394-decode-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/eshapattell/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0399-evaluate-division](https://github.com/eshapattell/Leetcode/tree/master/0399-evaluate-division) |
 | [0402-remove-k-digits](https://github.com/eshapattell/Leetcode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/eshapattell/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0434-number-of-segments-in-a-string](https://github.com/eshapattell/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/eshapattell/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/eshapattell/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/eshapattell/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0399-evaluate-division](https://github.com/eshapattell/Leetcode/tree/master/0399-evaluate-division) |
 | [0410-split-array-largest-sum](https://github.com/eshapattell/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/eshapattell/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/eshapattell/Leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -563,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/eshapattell/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/eshapattell/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/eshapattell/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0399-evaluate-division](https://github.com/eshapattell/Leetcode/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/eshapattell/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/eshapattell/Leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0437-path-sum-iii](https://github.com/eshapattell/Leetcode/tree/master/0437-path-sum-iii) |
@@ -718,6 +721,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/eshapattell/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/eshapattell/Leetcode/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/eshapattell/Leetcode/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/eshapattell/Leetcode/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/eshapattell/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0547-number-of-provinces](https://github.com/eshapattell/Leetcode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/eshapattell/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -769,6 +773,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/eshapattell/Leetcode/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/eshapattell/Leetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/eshapattell/Leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/eshapattell/Leetcode/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/eshapattell/Leetcode/tree/master/0721-accounts-merge) |
@@ -779,6 +784,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/eshapattell/Leetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/eshapattell/Leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/eshapattell/Leetcode/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/eshapattell/Leetcode/tree/master/0743-network-delay-time) |
@@ -798,6 +804,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/eshapattell/Leetcode/tree/master/0399-evaluate-division) |
 | [0743-network-delay-time](https://github.com/eshapattell/Leetcode/tree/master/0743-network-delay-time) |
 ## Dijkstra's Algorithm
 |  |
@@ -805,4 +812,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/eshapattell/Leetcode/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/eshapattell/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/eshapattell/Leetcode/tree/master/1631-path-with-minimum-effort) |
+## Bellman–Ford Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/eshapattell/Leetcode/tree/master/0399-evaluate-division) |
+## Floyd–Warshall Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/eshapattell/Leetcode/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
