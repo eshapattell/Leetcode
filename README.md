@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/eshapattell/Leetcode/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/eshapattell/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/eshapattell/Leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/eshapattell/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/eshapattell/Leetcode/tree/master/0231-power-of-two) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/eshapattell/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/eshapattell/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0062-unique-paths](https://github.com/eshapattell/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/eshapattell/Leetcode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/eshapattell/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/eshapattell/Leetcode/tree/master/0115-distinct-subsequences) |
@@ -711,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/eshapattell/Leetcode/tree/master/0062-unique-paths) |
 | [2063-vowels-of-all-substrings](https://github.com/eshapattell/Leetcode/tree/master/2063-vowels-of-all-substrings) |
 ## Geometry
 |  |
