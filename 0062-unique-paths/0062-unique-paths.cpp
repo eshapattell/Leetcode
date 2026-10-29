@@ -1,29 +1,23 @@
 class Solution {
 public:
-    int solve(int m, int n, vector<vector<int>>&dp){
-        //base case
-        if(m==0 && n==0){
-            return 1;
-        }
-        //invalid
-        if(m< 0 || n<0){
-            return 0;
-        }
-        //if not -1 ie value already calc
-        if(dp[m][n] != -1){
-            return dp[m][n];
-        }
-        //two ways possible going up and left
-        int up= solve(m-1, n, dp);
-        int left= solve(m, n-1, dp);
-
-        //returning curr dp by adding both
-        return dp[m][n]= up+ left; 
-    }
     int uniquePaths(int m, int n) {
-        //2d dp
         vector<vector<int>>dp(m, vector<int>(n, -1));
-        return solve(m-1,n-1, dp);
+
+        //only one way to reach there which is top so it will be 1
+        for (int i = 0; i < m; i++) {
+            dp[i][0] = 1;
+        }
+        //only one way to reach there which is left so it will be 1
+        for(int j=0;j<n;j++){
+            dp[0][j]= 1;
+        }
+
+        for(int i=1;i<m;i++){
+            for(int j=1;j<n;j++){
+                dp[i][j]= dp[i-1][j]+ dp[i][j-1];
+            }
+        }
+        return dp[m-1][n-1];
     }
 };
 
