@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/eshapattell/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/eshapattell/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/eshapattell/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0120-triangle](https://github.com/eshapattell/Leetcode/tree/master/0120-triangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/eshapattell/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/eshapattell/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0164-maximum-gap](https://github.com/eshapattell/Leetcode/tree/master/0164-maximum-gap) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/eshapattell/Leetcode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/eshapattell/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/eshapattell/Leetcode/tree/master/0115-distinct-subsequences) |
+| [0120-triangle](https://github.com/eshapattell/Leetcode/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/eshapattell/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/eshapattell/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/eshapattell/Leetcode/tree/master/0152-maximum-product-subarray) |
