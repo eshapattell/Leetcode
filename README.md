@@ -632,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/eshapattell/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/eshapattell/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/eshapattell/Leetcode/tree/master/1631-path-with-minimum-effort) |
+| [1971-find-if-path-exists-in-graph](https://github.com/eshapattell/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/eshapattell/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/eshapattell/Leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
 ## Bracket Sequences
@@ -790,6 +791,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1376-time-needed-to-inform-all-employees](https://github.com/eshapattell/Leetcode/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/eshapattell/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/eshapattell/Leetcode/tree/master/1631-path-with-minimum-effort) |
+| [1971-find-if-path-exists-in-graph](https://github.com/eshapattell/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/eshapattell/Leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
 ## Binary Lifting
 |  |
@@ -837,6 +839,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0990-satisfiability-of-equality-equations](https://github.com/eshapattell/Leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1020-number-of-enclaves](https://github.com/eshapattell/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/eshapattell/Leetcode/tree/master/1631-path-with-minimum-effort) |
+| [1971-find-if-path-exists-in-graph](https://github.com/eshapattell/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/eshapattell/Leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
 ## Graph Theory
 |  |
@@ -849,6 +852,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/eshapattell/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0990-satisfiability-of-equality-equations](https://github.com/eshapattell/Leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1791-find-center-of-star-graph](https://github.com/eshapattell/Leetcode/tree/master/1791-find-center-of-star-graph) |
+| [1971-find-if-path-exists-in-graph](https://github.com/eshapattell/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/eshapattell/Leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/eshapattell/Leetcode/tree/master/2497-maximum-star-sum-of-a-graph) |
 ## Directed Acyclic Graph
