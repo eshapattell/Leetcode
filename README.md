@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/eshapattell/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0880-decoded-string-at-index](https://github.com/eshapattell/Leetcode/tree/master/0880-decoded-string-at-index) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/eshapattell/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0990-satisfiability-of-equality-equations](https://github.com/eshapattell/Leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1002-find-common-characters](https://github.com/eshapattell/Leetcode/tree/master/1002-find-common-characters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/eshapattell/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/eshapattell/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0962-maximum-width-ramp](https://github.com/eshapattell/Leetcode/tree/master/0962-maximum-width-ramp) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/eshapattell/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0983-minimum-cost-for-tickets](https://github.com/eshapattell/Leetcode/tree/master/0983-minimum-cost-for-tickets) |
+| [0990-satisfiability-of-equality-equations](https://github.com/eshapattell/Leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [0992-subarrays-with-k-different-integers](https://github.com/eshapattell/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1002-find-common-characters](https://github.com/eshapattell/Leetcode/tree/master/1002-find-common-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/eshapattell/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -828,6 +830,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/eshapattell/Leetcode/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/eshapattell/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/eshapattell/Leetcode/tree/master/0785-is-graph-bipartite) |
+| [0990-satisfiability-of-equality-equations](https://github.com/eshapattell/Leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1020-number-of-enclaves](https://github.com/eshapattell/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/eshapattell/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/eshapattell/Leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
@@ -840,6 +843,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/eshapattell/Leetcode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/eshapattell/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/eshapattell/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
+| [0990-satisfiability-of-equality-equations](https://github.com/eshapattell/Leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1791-find-center-of-star-graph](https://github.com/eshapattell/Leetcode/tree/master/1791-find-center-of-star-graph) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/eshapattell/Leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/eshapattell/Leetcode/tree/master/2497-maximum-star-sum-of-a-graph) |
