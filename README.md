@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2187-minimum-time-to-complete-trips](https://github.com/eshapattell/Leetcode/tree/master/2187-minimum-time-to-complete-trips) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/eshapattell/Leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/eshapattell/Leetcode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/eshapattell/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/eshapattell/Leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2401-longest-nice-subarray](https://github.com/eshapattell/Leetcode/tree/master/2401-longest-nice-subarray) |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/eshapattell/Leetcode/tree/master/2497-maximum-star-sum-of-a-graph) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/eshapattell/Leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/eshapattell/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/eshapattell/Leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/eshapattell/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/eshapattell/Leetcode/tree/master/2497-maximum-star-sum-of-a-graph) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/eshapattell/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/eshapattell/Leetcode/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1333-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/eshapattell/Leetcode/tree/master/1333-filter-restaurants-by-vegan-friendly-price-and-distance) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/eshapattell/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/eshapattell/Leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/eshapattell/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/eshapattell/Leetcode/tree/master/2497-maximum-star-sum-of-a-graph) |
 | [3536-maximum-product-of-two-digits](https://github.com/eshapattell/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/eshapattell/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -400,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/eshapattell/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/eshapattell/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2211-count-collisions-on-a-road](https://github.com/eshapattell/Leetcode/tree/master/2211-count-collisions-on-a-road) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/eshapattell/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/eshapattell/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/eshapattell/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/eshapattell/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -525,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/eshapattell/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/eshapattell/Leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/eshapattell/Leetcode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/eshapattell/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/eshapattell/Leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2953-count-complete-substrings](https://github.com/eshapattell/Leetcode/tree/master/2953-count-complete-substrings) |
 | [3483-unique-3-digit-even-numbers](https://github.com/eshapattell/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -543,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/eshapattell/Leetcode/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/eshapattell/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/eshapattell/Leetcode/tree/master/1631-path-with-minimum-effort) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/eshapattell/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/eshapattell/Leetcode/tree/master/2497-maximum-star-sum-of-a-graph) |
 ## Bucket Sort
 |  |
