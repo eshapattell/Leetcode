@@ -630,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/eshapattell/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0938-range-sum-of-bst](https://github.com/eshapattell/Leetcode/tree/master/0938-range-sum-of-bst) |
 | [1020-number-of-enclaves](https://github.com/eshapattell/Leetcode/tree/master/1020-number-of-enclaves) |
+| [1192-critical-connections-in-a-network](https://github.com/eshapattell/Leetcode/tree/master/1192-critical-connections-in-a-network) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/eshapattell/Leetcode/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1382-balance-a-binary-search-tree](https://github.com/eshapattell/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/eshapattell/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -854,6 +855,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/eshapattell/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/eshapattell/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0990-satisfiability-of-equality-equations](https://github.com/eshapattell/Leetcode/tree/master/0990-satisfiability-of-equality-equations) |
+| [1192-critical-connections-in-a-network](https://github.com/eshapattell/Leetcode/tree/master/1192-critical-connections-in-a-network) |
 | [1791-find-center-of-star-graph](https://github.com/eshapattell/Leetcode/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/eshapattell/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/eshapattell/Leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
@@ -919,4 +921,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/eshapattell/Leetcode/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
+## Biconnected Component
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/eshapattell/Leetcode/tree/master/1192-critical-connections-in-a-network) |
+## Bridge (Graph)
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/eshapattell/Leetcode/tree/master/1192-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
