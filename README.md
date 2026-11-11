@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/eshapattell/Leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/eshapattell/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/eshapattell/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2049-count-nodes-with-the-highest-score](https://github.com/eshapattell/Leetcode/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/eshapattell/Leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2073-time-needed-to-buy-tickets](https://github.com/eshapattell/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2187-minimum-time-to-complete-trips](https://github.com/eshapattell/Leetcode/tree/master/2187-minimum-time-to-complete-trips) |
@@ -642,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-count-good-nodes-in-binary-tree](https://github.com/eshapattell/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/eshapattell/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/eshapattell/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+| [2049-count-nodes-with-the-highest-score](https://github.com/eshapattell/Leetcode/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/eshapattell/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/eshapattell/Leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
 ## Bracket Sequences
@@ -734,6 +736,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1376-time-needed-to-inform-all-employees](https://github.com/eshapattell/Leetcode/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1382-balance-a-binary-search-tree](https://github.com/eshapattell/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/eshapattell/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2049-count-nodes-with-the-highest-score](https://github.com/eshapattell/Leetcode/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/eshapattell/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/eshapattell/Leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
 ## Binary Tree
@@ -760,6 +763,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-distribute-coins-in-binary-tree](https://github.com/eshapattell/Leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/eshapattell/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/eshapattell/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2049-count-nodes-with-the-highest-score](https://github.com/eshapattell/Leetcode/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/eshapattell/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Combinatorics
 |  |
@@ -783,6 +787,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/eshapattell/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0834-sum-of-distances-in-tree](https://github.com/eshapattell/Leetcode/tree/master/0834-sum-of-distances-in-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/eshapattell/Leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
+| [2049-count-nodes-with-the-highest-score](https://github.com/eshapattell/Leetcode/tree/master/2049-count-nodes-with-the-highest-score) |
 ## Breadth-First Search
 |  |
 | ------- |
