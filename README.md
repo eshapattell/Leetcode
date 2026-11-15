@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-star-sum-of-a-graph](https://github.com/eshapattell/Leetcode/tree/master/2497-maximum-star-sum-of-a-graph) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/eshapattell/Leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2594-minimum-time-to-repair-cars](https://github.com/eshapattell/Leetcode/tree/master/2594-minimum-time-to-repair-cars) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/eshapattell/Leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3483-unique-3-digit-even-numbers](https://github.com/eshapattell/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/eshapattell/Leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3693-climbing-stairs-ii](https://github.com/eshapattell/Leetcode/tree/master/3693-climbing-stairs-ii) |
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/eshapattell/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/eshapattell/Leetcode/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1631-path-with-minimum-effort](https://github.com/eshapattell/Leetcode/tree/master/1631-path-with-minimum-effort) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/eshapattell/Leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Design
 |  |
 | ------- |
@@ -648,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2049-count-nodes-with-the-highest-score](https://github.com/eshapattell/Leetcode/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/eshapattell/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/eshapattell/Leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/eshapattell/Leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2925-maximum-score-after-applying-operations-on-a-tree](https://github.com/eshapattell/Leetcode/tree/master/2925-maximum-score-after-applying-operations-on-a-tree) |
 ## Bracket Sequences
 |  |
@@ -820,6 +823,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/eshapattell/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/eshapattell/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/eshapattell/Leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/eshapattell/Leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -868,6 +872,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/eshapattell/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/eshapattell/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/eshapattell/Leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/eshapattell/Leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Graph Theory
 |  |
 | ------- |
