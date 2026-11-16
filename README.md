@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2049-count-nodes-with-the-highest-score](https://github.com/eshapattell/Leetcode/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/eshapattell/Leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2073-time-needed-to-buy-tickets](https://github.com/eshapattell/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
+| [2140-solving-questions-with-brainpower](https://github.com/eshapattell/Leetcode/tree/master/2140-solving-questions-with-brainpower) |
 | [2187-minimum-time-to-complete-trips](https://github.com/eshapattell/Leetcode/tree/master/2187-minimum-time-to-complete-trips) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/eshapattell/Leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/eshapattell/Leetcode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/eshapattell/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/eshapattell/Leetcode/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2063-vowels-of-all-substrings](https://github.com/eshapattell/Leetcode/tree/master/2063-vowels-of-all-substrings) |
+| [2140-solving-questions-with-brainpower](https://github.com/eshapattell/Leetcode/tree/master/2140-solving-questions-with-brainpower) |
 | [2320-count-number-of-ways-to-place-houses](https://github.com/eshapattell/Leetcode/tree/master/2320-count-number-of-ways-to-place-houses) |
 | [2925-maximum-score-after-applying-operations-on-a-tree](https://github.com/eshapattell/Leetcode/tree/master/2925-maximum-score-after-applying-operations-on-a-tree) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/eshapattell/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
