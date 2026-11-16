@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/eshapattell/Leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/eshapattell/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/eshapattell/Leetcode/tree/master/0217-contains-duplicate) |
+| [0221-maximal-square](https://github.com/eshapattell/Leetcode/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/eshapattell/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/eshapattell/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/eshapattell/Leetcode/tree/master/0322-coin-change) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/eshapattell/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/eshapattell/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/eshapattell/Leetcode/tree/master/0198-house-robber) |
+| [0221-maximal-square](https://github.com/eshapattell/Leetcode/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/eshapattell/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/eshapattell/Leetcode/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/eshapattell/Leetcode/tree/master/0410-split-array-largest-sum) |
@@ -434,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/eshapattell/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/eshapattell/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/eshapattell/Leetcode/tree/master/0200-number-of-islands) |
+| [0221-maximal-square](https://github.com/eshapattell/Leetcode/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/eshapattell/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/eshapattell/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0778-swim-in-rising-water](https://github.com/eshapattell/Leetcode/tree/master/0778-swim-in-rising-water) |
