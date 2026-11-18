@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2594-minimum-time-to-repair-cars](https://github.com/eshapattell/Leetcode/tree/master/2594-minimum-time-to-repair-cars) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/eshapattell/Leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3483-unique-3-digit-even-numbers](https://github.com/eshapattell/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/eshapattell/Leetcode/tree/master/3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
 | [3524-find-x-value-of-array-i](https://github.com/eshapattell/Leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3693-climbing-stairs-ii](https://github.com/eshapattell/Leetcode/tree/master/3693-climbing-stairs-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/eshapattell/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2320-count-number-of-ways-to-place-houses](https://github.com/eshapattell/Leetcode/tree/master/2320-count-number-of-ways-to-place-houses) |
 | [2925-maximum-score-after-applying-operations-on-a-tree](https://github.com/eshapattell/Leetcode/tree/master/2925-maximum-score-after-applying-operations-on-a-tree) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/eshapattell/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/eshapattell/Leetcode/tree/master/3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
 | [3524-find-x-value-of-array-i](https://github.com/eshapattell/Leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3693-climbing-stairs-ii](https://github.com/eshapattell/Leetcode/tree/master/3693-climbing-stairs-ii) |
 ## Prefix Sum
@@ -555,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2368-reachable-nodes-with-restrictions](https://github.com/eshapattell/Leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2953-count-complete-substrings](https://github.com/eshapattell/Leetcode/tree/master/2953-count-complete-substrings) |
 | [3483-unique-3-digit-even-numbers](https://github.com/eshapattell/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/eshapattell/Leetcode/tree/master/3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/eshapattell/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Ordered Set
 |  |
