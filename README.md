@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/eshapattell/Leetcode/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/eshapattell/Leetcode/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2063-vowels-of-all-substrings](https://github.com/eshapattell/Leetcode/tree/master/2063-vowels-of-all-substrings) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/eshapattell/Leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2211-count-collisions-on-a-road](https://github.com/eshapattell/Leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/eshapattell/Leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/eshapattell/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
