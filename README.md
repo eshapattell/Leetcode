@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/eshapattell/Leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2594-minimum-time-to-repair-cars](https://github.com/eshapattell/Leetcode/tree/master/2594-minimum-time-to-repair-cars) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/eshapattell/Leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/eshapattell/Leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3483-unique-3-digit-even-numbers](https://github.com/eshapattell/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/eshapattell/Leetcode/tree/master/3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
 | [3524-find-x-value-of-array-i](https://github.com/eshapattell/Leetcode/tree/master/3524-find-x-value-of-array-i) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2140-solving-questions-with-brainpower](https://github.com/eshapattell/Leetcode/tree/master/2140-solving-questions-with-brainpower) |
 | [2320-count-number-of-ways-to-place-houses](https://github.com/eshapattell/Leetcode/tree/master/2320-count-number-of-ways-to-place-houses) |
 | [2925-maximum-score-after-applying-operations-on-a-tree](https://github.com/eshapattell/Leetcode/tree/master/2925-maximum-score-after-applying-operations-on-a-tree) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/eshapattell/Leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3241-time-taken-to-mark-all-nodes](https://github.com/eshapattell/Leetcode/tree/master/3241-time-taken-to-mark-all-nodes) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/eshapattell/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/eshapattell/Leetcode/tree/master/3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/eshapattell/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/eshapattell/Leetcode/tree/master/2497-maximum-star-sum-of-a-graph) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/eshapattell/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/eshapattell/Leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3536-maximum-product-of-two-digits](https://github.com/eshapattell/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/eshapattell/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
