@@ -338,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2140-solving-questions-with-brainpower](https://github.com/eshapattell/Leetcode/tree/master/2140-solving-questions-with-brainpower) |
 | [2320-count-number-of-ways-to-place-houses](https://github.com/eshapattell/Leetcode/tree/master/2320-count-number-of-ways-to-place-houses) |
 | [2925-maximum-score-after-applying-operations-on-a-tree](https://github.com/eshapattell/Leetcode/tree/master/2925-maximum-score-after-applying-operations-on-a-tree) |
+| [3241-time-taken-to-mark-all-nodes](https://github.com/eshapattell/Leetcode/tree/master/3241-time-taken-to-mark-all-nodes) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/eshapattell/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/eshapattell/Leetcode/tree/master/3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
 | [3524-find-x-value-of-array-i](https://github.com/eshapattell/Leetcode/tree/master/3524-find-x-value-of-array-i) |
@@ -670,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2368-reachable-nodes-with-restrictions](https://github.com/eshapattell/Leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/eshapattell/Leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2925-maximum-score-after-applying-operations-on-a-tree](https://github.com/eshapattell/Leetcode/tree/master/2925-maximum-score-after-applying-operations-on-a-tree) |
+| [3241-time-taken-to-mark-all-nodes](https://github.com/eshapattell/Leetcode/tree/master/3241-time-taken-to-mark-all-nodes) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -765,6 +767,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/eshapattell/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/eshapattell/Leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2925-maximum-score-after-applying-operations-on-a-tree](https://github.com/eshapattell/Leetcode/tree/master/2925-maximum-score-after-applying-operations-on-a-tree) |
+| [3241-time-taken-to-mark-all-nodes](https://github.com/eshapattell/Leetcode/tree/master/3241-time-taken-to-mark-all-nodes) |
 ## Binary Tree
 |  |
 | ------- |
@@ -816,6 +819,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-distribute-coins-in-binary-tree](https://github.com/eshapattell/Leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/eshapattell/Leetcode/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2925-maximum-score-after-applying-operations-on-a-tree](https://github.com/eshapattell/Leetcode/tree/master/2925-maximum-score-after-applying-operations-on-a-tree) |
+| [3241-time-taken-to-mark-all-nodes](https://github.com/eshapattell/Leetcode/tree/master/3241-time-taken-to-mark-all-nodes) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -907,6 +911,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1971-find-if-path-exists-in-graph](https://github.com/eshapattell/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/eshapattell/Leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/eshapattell/Leetcode/tree/master/2497-maximum-star-sum-of-a-graph) |
+| [3241-time-taken-to-mark-all-nodes](https://github.com/eshapattell/Leetcode/tree/master/3241-time-taken-to-mark-all-nodes) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
