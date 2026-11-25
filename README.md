@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/eshapattell/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/eshapattell/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2063-vowels-of-all-substrings](https://github.com/eshapattell/Leetcode/tree/master/2063-vowels-of-all-substrings) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/eshapattell/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3524-find-x-value-of-array-i](https://github.com/eshapattell/Leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/eshapattell/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/eshapattell/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2594-minimum-time-to-repair-cars](https://github.com/eshapattell/Leetcode/tree/master/2594-minimum-time-to-repair-cars) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/eshapattell/Leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/eshapattell/Leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/eshapattell/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/eshapattell/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/eshapattell/Leetcode/tree/master/3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
 | [3524-find-x-value-of-array-i](https://github.com/eshapattell/Leetcode/tree/master/3524-find-x-value-of-array-i) |
@@ -443,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/eshapattell/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/eshapattell/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/eshapattell/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/eshapattell/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Matrix
@@ -707,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/eshapattell/Leetcode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2401-longest-nice-subarray](https://github.com/eshapattell/Leetcode/tree/master/2401-longest-nice-subarray) |
 | [2953-count-complete-substrings](https://github.com/eshapattell/Leetcode/tree/master/2953-count-complete-substrings) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/eshapattell/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -719,6 +723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/eshapattell/Leetcode/tree/master/1291-sequential-digits) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/eshapattell/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/eshapattell/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [4024-nearest-available-drone](https://github.com/eshapattell/Leetcode/tree/master/4024-nearest-available-drone) |
 ## Pigeonhole Principle
