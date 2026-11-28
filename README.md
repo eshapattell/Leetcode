@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/eshapattell/Leetcode/tree/master/1002-find-common-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/eshapattell/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1020-number-of-enclaves](https://github.com/eshapattell/Leetcode/tree/master/1020-number-of-enclaves) |
+| [1043-partition-array-for-maximum-sum](https://github.com/eshapattell/Leetcode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/eshapattell/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/eshapattell/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/eshapattell/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/eshapattell/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0931-minimum-falling-path-sum](https://github.com/eshapattell/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [0983-minimum-cost-for-tickets](https://github.com/eshapattell/Leetcode/tree/master/0983-minimum-cost-for-tickets) |
+| [1043-partition-array-for-maximum-sum](https://github.com/eshapattell/Leetcode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1092-shortest-common-supersequence](https://github.com/eshapattell/Leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/eshapattell/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/eshapattell/Leetcode/tree/master/1289-minimum-falling-path-sum-ii) |
